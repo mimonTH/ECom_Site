@@ -150,12 +150,35 @@ input[type=checkbox], input[type=radio] {
     text-align: center;
     font-size: 1.2rem;
     color: #777;
-    padding: 150px 0; /* centers vertically inside section-padding-100 */
-    display: flex;
+    padding: 150px 0; 
     justify-content: center;
     align-items: center;
     height: 300px; /* adjust depending on your layout */
+    line-height: 1.6;
     white-space: nowrap; /* prevent line break */
+}
+.top-alert {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    background-color: #f44336; /* red warning color */
+    color: white !important;
+    padding: 12px 35px;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    z-index: 10000;
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from { top: -50px; opacity: 0; }
+    to { top: 0; opacity: 1; }
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease;
 }
 .widget{
     position: relative;
@@ -407,6 +430,9 @@ input[type=checkbox], input[type=radio] {
 /* === filter area ===*/
 /* === Product Grid Section === */
 
+.product_area{
+  min-height: 700px ;
+}
 .product_grid_row {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -423,6 +449,7 @@ input[type=checkbox], input[type=radio] {
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   cursor: pointer;
+  min-height: 390px;
 }
 
 .product_card:hover {

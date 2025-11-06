@@ -7,7 +7,7 @@
     "small_category": "Foundation",
     "price": "¥14,500",
     "code": "HM0001",
-    "rating": "4.5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -17,7 +17,7 @@
     "small_category": "Foundation",
     "price": "¥16,000",
     "code": "HM0002",
-    "rating": "3.5"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -27,7 +27,7 @@
     "small_category": "Foundation",
     "price": "¥9,800",
     "code": "BB0003",
-    "rating": "4.5"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -37,7 +37,7 @@
     "small_category": "Foundation",
     "price": "¥9,500",
     "code": "BB0004",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -47,7 +47,7 @@
     "small_category": "Foundation",
     "price": "¥10,200",
     "code": "CH0005",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -57,7 +57,7 @@
     "small_category": "Foundation",
     "price": "¥19,800",
     "code": "CH0006",
-    "rating": "5"
+    "rating": "5.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -67,7 +67,7 @@
     "small_category": "Foundation",
     "price": "¥8,000",
     "code": "DR0007",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -77,7 +77,7 @@
     "small_category": "Foundation",
     "price": "¥15,400",
     "code": "DR0008",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -87,7 +87,7 @@
     "small_category": "Foundation",
     "price": "¥9,200",
     "code": "YSL0009",
-    "rating": "3"
+    "rating": "3.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -97,7 +97,7 @@
     "small_category": "Foundation",
     "price": "¥11,000",
     "code": "YSL0010",
-    "rating": "4"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -107,7 +107,7 @@
     "small_category": "Foundation",
     "price": "¥8,500",
     "code": "GV0011",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -117,7 +117,7 @@
     "small_category": "Foundation",
     "price": "¥9,100",
     "code": "GV0012",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -127,7 +127,7 @@
     "small_category": "Foundation",
     "price": "¥18,700",
     "code": "TF0013",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -137,7 +137,7 @@
     "small_category": "Foundation",
     "price": "¥16,500",
     "code": "TF0014",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -147,7 +147,7 @@
     "small_category": "Foundation",
     "price": "¥6,600",
     "code": "EA0015",
-    "rating": "4"
+    "rating": "4.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -157,167 +157,167 @@
     "small_category": "Foundation",
     "price": "¥7,200",
     "code": "EA0016",
-    "rating": "5"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Hermès",
     "name": "エルメス プードル オルフェーヴル",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥13,200",
     "code": "HM0017",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Hermès",
     "name": "H TRIO (プードル ミネラル)",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥12,800",
     "code": "HM0018",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Burberry",
     "name": "バーバリー シルク グロウ パウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥8,100",
     "code": "BB0019",
-    "rating": "3"
+    "rating": "3.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Burberry",
     "name": "バーバリー マット フィニッシュ パウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥7,900",
     "code": "BB0020",
-    "rating": "4"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Chanel",
     "name": "プードゥル ユニヴェルセル リーブル N",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥8,800",
     "code": "CH0021",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Chanel",
     "name": "レ ベージュ プードゥル ベル ミン",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥9,500",
     "code": "CH0022",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Dior",
     "name": "ディオールスキン フォーエヴァー クッション パウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥9,350",
     "code": "DR0023",
-    "rating": "4"
+    "rating": "4.4"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Dior",
     "name": "ディオール プレステージ ルース パウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥13,200",
     "code": "DR0024",
-    "rating": "5"
+    "rating": "5.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "YSL",
     "name": "アンクル ド ポー ルクッション",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥10,300",
     "code": "YSL0025",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "YSL",
     "name": "ラディアント タッチ ブラー プライマー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥8,100",
     "code": "YSL0026",
-    "rating": "5"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Givenchy",
     "name": "プリズム・リーブル・プレストパウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥8,600",
     "code": "GV0027",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Givenchy",
     "name": "プリズム・リーブル・ルースパウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥9,800",
     "code": "GV0028",
-    "rating": "4"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Tom Ford",
     "name": "ソレイユ グロウ トーン アップ ファンデーション",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥12,100",
     "code": "TF0029",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Tom Ford",
     "name": "トランスルーセント フィニッシング パウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥11,500",
     "code": "TF0030",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Elizabeth Arden",
     "name": "セラミド スキン スムージング ルース パウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥7,500",
     "code": "EA0031",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
     "brand": "Elizabeth Arden",
     "name": "ハイパフォーマンス ブラーリング ルース パウダー",
     "main_category": "Cosmetics",
-    "small_category": "powder",
+    "small_category": "Powder",
     "price": "¥6,800",
     "code": "EA0032",
-    "rating": "5"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -327,7 +327,7 @@
     "small_category": "Blush",
     "price": "¥10,500",
     "code": "HM0033",
-    "rating": "4"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -337,7 +337,7 @@
     "small_category": "Blush",
     "price": "¥11,200",
     "code": "HM0034",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -347,7 +347,7 @@
     "small_category": "Blush",
     "price": "¥7,800",
     "code": "BB0035",
-    "rating": "4"
+    "rating": "4.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -357,7 +357,7 @@
     "small_category": "Blush",
     "price": "¥8,100",
     "code": "BB0036",
-    "rating": "4"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -367,7 +367,7 @@
     "small_category": "Blush",
     "price": "¥7,150",
     "code": "CH0037",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -377,7 +377,7 @@
     "small_category": "Blush",
     "price": "¥6,800",
     "code": "CH0038",
-    "rating": "3"
+    "rating": "3.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -387,7 +387,7 @@
     "small_category": "Blush",
     "price": "¥7,150",
     "code": "DR0039",
-    "rating": "4"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -397,7 +397,7 @@
     "small_category": "Blush",
     "price": "¥6,270",
     "code": "DR0040",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -407,7 +407,7 @@
     "small_category": "Blush",
     "price": "¥11,550",
     "code": "YSL0041",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -417,7 +417,7 @@
     "small_category": "Blush",
     "price": "¥7,200",
     "code": "YSL0042",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -427,7 +427,7 @@
     "small_category": "Blush",
     "price": "¥7,700",
     "code": "GV0043",
-    "rating": "4"
+    "rating": "4.4"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -437,7 +437,7 @@
     "small_category": "Blush",
     "price": "¥9,200",
     "code": "GV0044",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -447,7 +447,7 @@
     "small_category": "Blush",
     "price": "¥11,550",
     "code": "TF0045",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -457,7 +457,7 @@
     "small_category": "Blush",
     "price": "¥10,800",
     "code": "TF0046",
-    "rating": "4"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -467,7 +467,7 @@
     "small_category": "Blush",
     "price": "¥5,800",
     "code": "EA0047",
-    "rating": "5"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -477,7 +477,7 @@
     "small_category": "Blush",
     "price": "¥5,500",
     "code": "EA0048",
-    "rating": "4"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -487,7 +487,7 @@
     "small_category": "Lipstick",
     "price": "¥9,240",
     "code": "HM0049",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -497,7 +497,7 @@
     "small_category": "Lipstick",
     "price": "¥9,240",
     "code": "HM0050",
-    "rating": "4"
+    "rating": "4.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -507,7 +507,7 @@
     "small_category": "Lipstick",
     "price": "¥5,200",
     "code": "BB0051",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -517,7 +517,7 @@
     "small_category": "Lipstick",
     "price": "¥5,500",
     "code": "BB0052",
-    "rating": "4"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -527,7 +527,7 @@
     "small_category": "Lipstick",
     "price": "¥5,940",
     "code": "CH0053",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -537,7 +537,7 @@
     "small_category": "Lipstick",
     "price": "¥6,160",
     "code": "CH0054",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -547,7 +547,7 @@
     "small_category": "Lipstick",
     "price": "¥4,730",
     "code": "DR0055",
-    "rating": "4"
+    "rating": "4.4"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -557,7 +557,7 @@
     "small_category": "Lipstick",
     "price": "¥5,940",
     "code": "DR0056",
-    "rating": "3"
+    "rating": "3.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -567,7 +567,7 @@
     "small_category": "Lipstick",
     "price": "¥5,940",
     "code": "YSL0057",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -577,7 +577,7 @@
     "small_category": "Lipstick",
     "price": "¥6,050",
     "code": "YSL0058",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -587,7 +587,7 @@
     "small_category": "Lipstick",
     "price": "¥5,830",
     "code": "GV0059",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -597,7 +597,7 @@
     "small_category": "Lipstick",
     "price": "¥5,060",
     "code": "GV0060",
-    "rating": "4"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -607,7 +607,7 @@
     "small_category": "Lipstick",
     "price": "¥8,360",
     "code": "TF0061",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -617,7 +617,7 @@
     "small_category": "Lipstick",
     "price": "¥8,360",
     "code": "TF0062",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -627,7 +627,7 @@
     "small_category": "Lipstick",
     "price": "¥4,500",
     "code": "EA0063",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -637,7 +637,7 @@
     "small_category": "Lipstick",
     "price": "¥4,200",
     "code": "EA0064",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -647,7 +647,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥19,800",
     "code": "HM0065",
-    "rating": "4"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -657,7 +657,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥18,200",
     "code": "HM0066",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -667,7 +667,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥17,600",
     "code": "BB0067",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -677,7 +677,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥15,200",
     "code": "BB0068",
-    "rating": "4"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -687,7 +687,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥21,560",
     "code": "CH0069",
-    "rating": "5"
+    "rating": "5.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -697,7 +697,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥19,250",
     "code": "CH0070",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -707,7 +707,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥20,350",
     "code": "DR0071",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -717,7 +717,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥16,500",
     "code": "DR0072",
-    "rating": "3"
+    "rating": "3.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -727,7 +727,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥16,800",
     "code": "YSL0073",
-    "rating": "4"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -737,7 +737,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥17,200",
     "code": "YSL0074",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -747,7 +747,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥15,500",
     "code": "GV0075",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -757,7 +757,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥14,800",
     "code": "GV0076",
-    "rating": "5"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -767,7 +767,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥39,600",
     "code": "TF0077",
-    "rating": "4"
+    "rating": "4.4"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -777,7 +777,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥41,800",
     "code": "TF0078",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -787,7 +787,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥6,800",
     "code": "EA0079",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -797,7 +797,7 @@
     "small_category": "Men's Fragrance",
     "price": "¥8,200",
     "code": "EA0080",
-    "rating": "4"
+    "rating": "4.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -807,7 +807,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥21,300",
     "code": "HM0081",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -817,7 +817,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥19,800",
     "code": "HM0082",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -827,7 +827,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥18,480",
     "code": "BB0083",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -837,7 +837,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥19,200",
     "code": "BB0084",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -847,7 +847,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥21,560",
     "code": "CH0085",
-    "rating": "5"
+    "rating": "5.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -857,7 +857,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥23,100",
     "code": "CH0086",
-    "rating": "4"
+    "rating": "4.6"
   },
   {
     "img":"img/product_img/chanel_perfume1.png",
@@ -867,7 +867,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥20,350",
     "code": "DR0087",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -877,7 +877,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥21,450",
     "code": "DR0088",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -887,7 +887,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥19,250",
     "code": "YSL0089",
-    "rating": "4"
+    "rating": "4.4"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -897,7 +897,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥18,700",
     "code": "YSL0090",
-    "rating": "3"
+    "rating": "3.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -907,7 +907,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥17,050",
     "code": "GV0091",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -917,7 +917,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥16,200",
     "code": "GV0092",
-    "rating": "5"
+    "rating": "4.6"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -927,7 +927,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥41,800",
     "code": "TF0093",
-    "rating": "4"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -937,7 +937,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥52,800",
     "code": "TF0094",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -947,7 +947,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥9,800",
     "code": "EA0095",
-    "rating": "4"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -957,7 +957,7 @@
     "small_category": "Women's Fragrance",
     "price": "¥7,500",
     "code": "EA0096",
-    "rating": "5"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -967,7 +967,7 @@
     "small_category": "Unisex",
     "price": "¥19,800",
     "code": "HM0097",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -977,7 +977,7 @@
     "small_category": "Unisex",
     "price": "¥20,500",
     "code": "HM0098",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -987,7 +987,7 @@
     "small_category": "Unisex",
     "price": "¥28,600",
     "code": "BB0099",
-    "rating": "4"
+    "rating": "4.1"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -997,7 +997,7 @@
     "small_category": "Unisex",
     "price": "¥28,600",
     "code": "BB0100",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1007,7 +1007,7 @@
     "small_category": "Unisex",
     "price": "¥36,300",
     "code": "CH0101",
-    "rating": "4"
+    "rating": "4.5"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1017,7 +1017,7 @@
     "small_category": "Unisex",
     "price": "¥36,300",
     "code": "CH0102",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1027,7 +1027,7 @@
     "small_category": "Unisex",
     "price": "¥34,100",
     "code": "DR0103",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1037,7 +1037,7 @@
     "small_category": "Unisex",
     "price": "¥34,100",
     "code": "DR0104",
-    "rating": "5"
+    "rating": "4.8"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1047,7 +1047,7 @@
     "small_category": "Unisex",
     "price": "¥30,800",
     "code": "YSL0105",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1057,7 +1057,7 @@
     "small_category": "Unisex",
     "price": "¥30,800",
     "code": "YSL0106",
-    "rating": "4"
+    "rating": "4.2"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1067,7 +1067,7 @@
     "small_category": "Unisex",
     "price": "¥32,450",
     "code": "GV0107",
-    "rating": "5"
+    "rating": "4.9"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1077,7 +1077,7 @@
     "small_category": "Unisex",
     "price": "¥35,200",
     "code": "GV0108",
-    "rating": "4"
+    "rating": "4.4"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1087,7 +1087,7 @@
     "small_category": "Unisex",
     "price": "¥41,800",
     "code": "TF0109",
-    "rating": "5"
+    "rating": "4.7"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1097,7 +1097,7 @@
     "small_category": "Unisex",
     "price": "¥41,800",
     "code": "TF0110",
-    "rating": "5"
+    "rating": "5.0"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1107,7 +1107,7 @@
     "small_category": "Unisex",
     "price": "¥7,200",
     "code": "EA0111",
-    "rating": "4"
+    "rating": "4.3"
   },
   {
     "img": "img/product_img/chanel_perfume1.png",
@@ -1117,6 +1117,6 @@
     "small_category": "Unisex",
     "price": "¥8,800",
     "code": "EA0112",
-    "rating": "3"
+    "rating": "3.9"
   }
 ]
