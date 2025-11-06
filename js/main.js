@@ -61,7 +61,7 @@ function runSearch(){
             || (p.brand || '').toLowerCase().includes(kw)
             || (p.main_category || '').toLowerCase().includes(kw)
             || (p.small_category || '').toLowerCase().includes(kw)
-            || (p.price || '').toString().replace(/[¥,\s]/g, '').toLowerCase()
+            || (p.price || '').toString().replace(/[¥,\s]/g, '').toLowerCase().includes(kw)
             || (p.code || '').toLowerCase().includes(kw);
         });
     }
