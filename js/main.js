@@ -56,11 +56,12 @@ function runSearch(){
     // === Keyword filtering ===
     if(inputKeyword !== ''){
         results = results.filter(p=>{
-            const kw = inputKeyword;
+            const kw = inputKeyword.replace(/[¥,\s]/g, '').toLowerCase();
             return (p.name || '').toLowerCase().includes(kw)
             || (p.brand || '').toLowerCase().includes(kw)
             || (p.main_category || '').toLowerCase().includes(kw)
             || (p.small_category || '').toLowerCase().includes(kw)
+            || (p.price || '').toString().replace(/[¥,\s]/g, '').toLowerCase()
             || (p.code || '').toLowerCase().includes(kw);
         });
     }
