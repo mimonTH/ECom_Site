@@ -56,13 +56,32 @@ function runSearch(){
     // === Keyword filtering ===
     if(inputKeyword !== ''){
         results = results.filter(p=>{
-            const kw = inputKeyword.replace(/[¥,\s]/g, '').toLowerCase();
-            return (p.name || '').toLowerCase().includes(kw)
-            || (p.brand || '').toLowerCase().includes(kw)
-            || (p.main_category || '').toLowerCase().includes(kw)
-            || (p.small_category || '').toLowerCase().includes(kw)
-            || (p.price || '').toString().replace(/[¥,\s]/g, '').toLowerCase().includes(kw)
-            || (p.code || '').toLowerCase().includes(kw);
+            const kw = inputKeyword.replace(/[¥,\s]/g, '').normalize('NFKC')  .toLowerCase();;
+            const name = (p.name || '')
+            .toString()
+            .replace(/[¥,\s]/g, '')
+            .normalize('NFKC')  
+            .toLowerCase();
+        const brand = (p.brand || '').normalize('NFKC')  .toLowerCase();
+        const mainCat = (p.main_category || '').normalize('NFKC')  .toLowerCase();
+        const smallCat = (p.small_category || '').normalize('NFKC')  .toLowerCase();
+        const code = (p.code || '').normalize('NFKC')  .toLowerCase();
+
+        // Normalize product price: remove symbols, commas, spaces
+        const price = (p.price || '')
+            .toString()
+            .replace(/[¥,\s]/g, '')
+            .normalize('NFKC')  
+            .toLowerCase();
+
+        return (
+            name.includes(kw) ||
+            brand.includes(kw) ||
+            mainCat.includes(kw) ||
+            smallCat.includes(kw) ||
+            code.includes(kw) ||
+            price.includes(kw)
+        );
         });
     }
 
@@ -147,7 +166,7 @@ document.getElementById('action_clear_btn').addEventListener('click', () => {
     moreChkBox.style.display = 'none';
     const noRes = document.querySelector('.no_results');
     if (noRes) noRes.style.display = 'none';
-    document.querySelector('.see_more_brand_btn').textContent = 'See More';
+    document.querySelector('.see_more_brand_btn').textContent = 'もっと見る';
 
     products = [...allProducts];
     setPagination(products);
