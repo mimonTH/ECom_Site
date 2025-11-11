@@ -161,6 +161,14 @@ document.getElementById('action_clear_btn').addEventListener('click', () => {
     document.querySelectorAll('.brands .form_check_input_brands').forEach(chk => chk.checked = false);
     document.querySelectorAll('.categories .form_check_input_cat').forEach(chk => chk.checked = false);
     document.getElementById('select_all_brands_label').textContent = '全てを選択';
+    document.querySelectorAll('.category_list .toggle').forEach(toggle => {
+        toggle.classList.remove('active');
+        const nextUl = toggle.nextElementSibling;
+        if(nextUl && nextUl.tagName === 'UL'){
+            nextUl.style.display = nextUl.style.display === 'block'? 'none':'';
+        }
+    });
+
 
     const moreChkBox = document.querySelector('.more_checks');
     moreChkBox.style.display = 'none';
