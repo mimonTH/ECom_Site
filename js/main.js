@@ -282,8 +282,8 @@ function displayProducts(pageNumber, data){
             <img src="${p.img}" alt="${p.name}">
             <h6 class="brand">${p.brand}</h6>
             <p class="name">${p.name}</p>
-            <p class="price"><span>Price :</span> ${p.price}</p>
-            <p class="code">Code : ${p.code}</p>
+            <p class="price"><span>金額 : </span>${p.price}</p>
+            <p class="code">コード : ${p.code}</p>
             <div class="rating">${stars}</div>
         </div>`;
     });
@@ -307,8 +307,8 @@ function openModal(productInfo){
     document.getElementById('modal_product_img').src = productInfo.img;
     document.getElementById('modal_brand').textContent = productInfo.brand;
     document.getElementById('modal_name').textContent = productInfo.name;
-    document.getElementById('modal_price').innerHTML = `<span>Price :</span> ${productInfo.price}`;
-    document.getElementById('modal_code').textContent = 'Code : ' + productInfo.code;
+    document.getElementById('modal_price').innerHTML = `<span>金額 : </span>${productInfo.price}`;
+    document.getElementById('modal_code').textContent = 'コード : ' + productInfo.code;
     document.getElementById('modal_rating').innerHTML = getStarsHTML(productInfo.rating);
     modal.style.display = 'block';
     document.body.style.overflow = 'hidden';
